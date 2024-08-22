@@ -15,8 +15,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://www.linkedin.com/in/nishant-singh-4a9372255/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Nishant Singh" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_there._/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="_there._" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aayush1949/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Aayush Chamoli" height="30" width="40" /></a>
+<a href="https://www.instagram.com/chamoliaayush/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="chamoliaayush" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -65,18 +65,18 @@
 <tr>
   <td align="center">
   <p align="center">
-  <a href="https://github.com/0xnishant10">
-    <img align="center" height="300px" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=0xnishant10&"/>
+  <a href="https://github.com/cham-aayush">
+    <img align="center" height="300px" width="600" src=""/>
   </a>
   </td>
   <td align="center">
   <a href="https://github.com/0xnishant10">
-  <img align="center" height="200px" width="600" src="https://github-readme-stats.vercel.app/api?username=0xnishant10" />
+  <img align="center" height="200px" width="600" src="" />
   </a>
   </td>
 </p>
 </details>
 </table>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xnishant10&layout=compact" alt="0xnishant10" /></p>
+<p align="center"><img align="center" src="" /></p>
 
 
