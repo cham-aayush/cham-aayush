@@ -1,55 +1,70 @@
 <!-- Banner -->
-<h1 align="center">Hi 👋, I'm Aayush Chamoli</h1>
-<h3 align="center">☁️ Cloud Enthusiast | 💻 Full-Stack Developer | 🚀 Problem Solver</h3>
+<h1 align="center">✨ Hey, I'm <span style="color:#00C9A7">Aayush Chamoli</span> ✨</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=550&lines=☁️+Cloud+Computing+Enthusiast;💻+Full-Stack+Developer;🚀+Problem+Solver;📚+DSA+%26+Competitive+Programming"/>
+</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d17b6a8bc6d8ff8b3b8bb3.gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%"/>
 </p>
 
 ---
 
 # 💫 About Me:
-- 🎓 4th Year **B.Tech Student**  
-- ☁️ Passionate about **Cloud Computing**  
+- 🎓 Final Year **B.Tech Student**  
+- ☁️ Passionate about **Cloud Computing & DevOps**  
 - 🎖️ **AWS Certified Cloud Practitioner**  
-- 💬 Ask me about **Web Development, DSA, AWS**  
+- 💬 Ask me about **Web Development, DSA, AWS, System Design**  
 - 📫 Reach me at: **aayushchamoli2020@gmail.com**
 
 ---
 
 ## 🌐 Socials:
-<p align="left">
-<a href="https://instagram.com/chamoliaayush" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/aayush1949/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+<p align="center">
+<a href="https://instagram.com/chamoliaayush" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+<a href="https://www.linkedin.com/in/aayush1949/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
 </p>
 
 ---
 
 # 💻 Tech Stack:
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,python,php,ruby,lua,nodejs,express,mongodb,mysql,azure,aws,gcp,react,nextjs,git,github,docker,linux&perline=10" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,python,php,ruby,lua,nodejs,express,mongodb,mysql,postgres,azure,aws,gcp,react,nextjs,git,github,docker,kubernetes,linux&perline=10" />
 </p>
 
 ---
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cham-aayush&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cham-aayush&theme=tokyonight&hide_border=true" height="150"/>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=cham-aayush&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=cham-aayush&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=cham-aayush&show_icons=true" height="170" />
+  </picture>
+  <picture>
+    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=cham-aayush&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=cham-aayush&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=cham-aayush" height="170" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cham-aayush&theme=tokyonight&hide_border=true&layout=compact" height="150"/>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cham-aayush&layout=compact&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cham-aayush&layout=compact&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cham-aayush&layout=compact" height="170" />
+  </picture>
 </p>
 
 ---
 
 # 🏆 LeetCode Stats:
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/chamoliaayush?theme=dark&font=Baloo%20Chettan%202&ext=contest" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/chamoliaayush?theme=dark&font=Baloo%20Chettan%202&ext=heatmap&border=0" alt="LeetCode Stats"/>
 </p>
 
 ---
+
 
 ### ✍️ Random Dev Quote
 <p align="center">
@@ -58,6 +73,3 @@
 
 ---
 
-<p align="center"> 
-  <img src="https://visitcount.itsvg.in/api?id=cham-aayush&label=Profile%20Views&color=12&icon=5&pretty=true" />
-</p>
