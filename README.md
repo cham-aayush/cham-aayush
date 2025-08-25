@@ -46,7 +46,7 @@
 
 # 🏆 LeetCode Stats:
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/cham-aayush?theme=dark&font=Baloo%20Chettan%202&ext=contest" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/chamoliaayush?theme=dark&font=Baloo%20Chettan%202&ext=contest" alt="LeetCode Stats"/>
 </p>
 
 ---
