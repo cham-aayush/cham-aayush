@@ -34,27 +34,18 @@
 
 ---
 
-# 📊 GitHub Stats:
+
+## 📊 GitHub Stats  
+
 <p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=cham-aayush&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=cham-aayush&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=cham-aayush&show_icons=true" height="170" />
-  </picture>
-  <picture>
-    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=cham-aayush&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=cham-aayush&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=cham-aayush" height="170" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=cham-aayush&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=cham-aayush&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cham-aayush&layout=compact&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cham-aayush&layout=compact&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cham-aayush&layout=compact" height="170" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cham-aayush&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
+
 
 ---
 
